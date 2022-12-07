@@ -1,0 +1,31 @@
+/* setting font family for webpage */
+* {
+    font-family: 'Times New Roman', sans-serif;
+    background-color: aliceblue;
+}
+
+/* Box styling for top cards and bottom cards */
+.top-container,
+.bottom-container {
+    box-shadow: 7px 17px 19px -19px rgba(64, 62, 62, 0.55);
+    background-color: rgb(112, 72, 125);
+}
+
+
+/* setting font size for Navbar text */
+#dashboard-text {
+    font-size: 35px;
+    background-color: rgba(163, 162, 238, 0.21);
+}
+
+/* setting font size for current weather container title */
+#current-condition-text {
+    font-size: 18px;
+    background-color: rgba(37, 1, 66, 0.596);
+}
+
+/* setting font size for recently viewed container title */
+#recently-viewed-text {
+    font-size: 18px;
+    background-color: rgb(112, 72, 125);
+}
